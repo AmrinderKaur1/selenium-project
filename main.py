@@ -3,10 +3,10 @@ import time
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import ElementClickInterceptedException
 
-CHROME_DRIVER_PATH = "C:\development\chromedriver.exe"
-IG_PASS = "kaur_codes01"
+CHROME_DRIVER_PATH = "your driver path"
+IG_PASS = "your instagram password"
 SIMILAR_ACCOUNT = "gaylemcdowell"
-USERNAME = "amrinderkaur_1"
+USERNAME = "your account id"
 
 
 class InstaFollower:
